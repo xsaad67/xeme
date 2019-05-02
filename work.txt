@@ -1,0 +1,7 @@
+Basic idea: User can upload his work
+Products
+	-Website.
+	-Photography.
+	-Video.
+	-Mobile App.
+
